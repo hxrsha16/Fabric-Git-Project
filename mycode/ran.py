@@ -1,0 +1,1 @@
+print("laka laka lamborgini")
